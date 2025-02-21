@@ -6,53 +6,64 @@
 3. 所有内容都需要中英文对照，方便学习
 
 ## 场景种类
-1. 餐厅就餐 Dining in Restaurant
-2. 购物消费 Shopping
-3. 机场出行 Airport Travel
-4. 酒店住宿 Hotel Stay
-5. 看病就医 Medical Care
-6. 公共交通 Public Transportation
-7. 工作会议 Business Meetings
-8. 面试求职 Job Interview
-9. 银行业务 Banking Services
-10. 日常社交 Social Interaction
-11. 家居生活 Home Life
-12. 运动健身 Sports and Fitness
-13. 教育学习 Education
-14. 旅游观光 Tourism
-15. 文化娱乐 Entertainment
-16. 天气气候 Weather
-17. 时尚穿搭 Fashion
-18. 美容美发 Beauty Salon
-19. 汽车服务 Automotive Services
-20. 宠物护理 Pet Care
-21. 园艺种植 Gardening
-22. 家庭聚会 Family Gatherings
-23. 节日庆典 Festivals and Celebrations
-24. 电子产品 Electronics
-25. 职场社交 Professional Networking
-26. 房屋租赁 Real Estate
-27. 邮政快递 Postal Services
-28. 图书馆 Library
-29. 咖啡馆 Coffee Shop
-30. 超市购物 Supermarket Shopping
-31. 健康养生 Health and Wellness
-32. 艺术欣赏 Art Appreciation
-33. 音乐活动 Musical Events
-34. 电影观影 Movie-going
-35. 体育赛事 Sporting Events
-36. 婚礼典礼 Wedding Ceremony
-37. 紧急情况 Emergency Situations
-38. 法律事务 Legal Matters
-39. 环境保护 Environmental Protection
-40. 志愿服务 Volunteer Work
-41. 网上购物 Online Shopping
-42. 数码科技 Digital Technology
-43. 美食烹饪 Cooking
-44. 户外活动 Outdoor Activities
-45. 亲子教育 Parenting
-46. 心理健康 Mental Health
-47. 职业发展 Career Development
-48. 理财投资 Financial Investment
-49. 社区活动 Community Events
-50. 文化交流 Cultural Exchange
+以下是50个常见场景，你可以从中选择一个，我会为你整理相关的英语表达词汇：  
+
+### **日常生活类**  
+1. **超市购物**（Shopping at a Supermarket）  
+2. **点餐和用餐**（Ordering and Dining at a Restaurant）  
+3. **问路和导航**（Asking for Directions）  
+4. **打电话和留言**（Making a Phone Call and Leaving a Message）  
+5. **看医生和描述症状**（Visiting a Doctor and Describing Symptoms）  
+6. **银行业务**（Banking and Financial Transactions）  
+7. **预约和安排日程**（Making Appointments and Scheduling）  
+8. **租房和公寓生活**（Renting an Apartment and Apartment Living）  
+9. **家务和清洁**（Household Chores and Cleaning）  
+10. **邮局和寄送包裹**（Post Office and Mailing Packages）  
+
+### **职场和学术类**  
+11. **求职和面试**（Job Hunting and Interviews）  
+12. **职场沟通和会议**（Workplace Communication and Meetings）  
+13. **电子邮件写作**（Writing Emails and Business Correspondence）  
+14. **团队合作和项目管理**（Teamwork and Project Management）  
+15. **报告和演讲**（Giving Presentations and Reports）  
+16. **职业发展和升职加薪**（Career Development and Promotions）  
+17. **大学课堂和学术讨论**（University Classes and Academic Discussions）  
+18. **学术写作和论文**（Academic Writing and Research Papers）  
+19. **实验室研究**（Laboratory Research）  
+20. **考试和备考**（Taking Exams and Studying for Tests）  
+
+### **社交和人际关系**  
+21. **认识新朋友和社交寒暄**（Meeting New People and Small Talk）  
+22. **朋友聚会和社交活动**（Parties and Social Events）  
+23. **文化差异和跨文化交流**（Cultural Differences and Cross-Cultural Communication）  
+24. **恋爱和约会**（Dating and Relationships）  
+25. **家庭关系和家庭聚会**（Family Relationships and Gatherings）  
+26. **道歉和解决冲突**（Apologizing and Conflict Resolution）  
+27. **劝说和谈判**（Persuasion and Negotiation）  
+28. **投诉和表达不满**（Making Complaints and Expressing Dissatisfaction）  
+29. **表达感谢和赞美**（Expressing Gratitude and Giving Compliments）  
+30. **社交媒体和在线交流**（Social Media and Online Communication）  
+
+### **旅游和娱乐**  
+31. **机场和海关**（At the Airport and Customs）  
+32. **酒店入住和退房**（Checking in and Out of a Hotel）  
+33. **景点游览和导游**（Sightseeing and Guided Tours）  
+34. **订票和交通工具**（Booking Tickets and Public Transport）  
+35. **紧急情况和求助**（Emergencies and Asking for Help）  
+36. **看电影和剧院**（Watching Movies and Theatre Performances）  
+37. **运动和健身**（Sports and Fitness）  
+38. **音乐会和音乐文化**（Concerts and Music Culture）  
+39. **户外探险和露营**（Outdoor Adventures and Camping）  
+40. **摄影和记录生活**（Photography and Capturing Moments）  
+
+### **抽象和观点表达**  
+41. **科技发展和未来**（Technology and the Future）  
+42. **环保和可持续发展**（Environmental Protection and Sustainability）  
+43. **社会公平和正义**（Social Justice and Fairness）  
+44. **幸福和人生意义**（Happiness and Meaning of Life）  
+45. **教育和个人成长**（Education and Personal Growth）  
+46. **成功和失败**（Success and Failure）  
+47. **自由和责任**（Freedom and Responsibility）  
+48. **财富和消费观**（Wealth and Consumerism）  
+49. **艺术和创造力**（Art and Creativity）  
+50. **哲学和人生观**（Philosophy and Life Perspectives）  

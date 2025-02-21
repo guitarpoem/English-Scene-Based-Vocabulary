@@ -1,0 +1,61 @@
+mkdir -p scenes
+
+# Daily Life 日常生活类
+touch "scenes/01_超市购物_Shopping_at_a_Supermarket.md"
+touch "scenes/02_点餐和用餐_Ordering_and_Dining.md"
+touch "scenes/03_问路和导航_Asking_for_Directions.md"
+touch "scenes/04_打电话和留言_Making_Phone_Calls.md"
+touch "scenes/05_看医生和描述症状_Visiting_Doctor.md"
+touch "scenes/06_银行业务_Banking_Transactions.md"
+touch "scenes/07_预约和安排日程_Making_Appointments.md"
+touch "scenes/08_租房和公寓生活_Renting_Apartment.md"
+touch "scenes/09_家务和清洁_Household_Chores.md"
+touch "scenes/10_邮局和寄送包裹_Post_Office.md"
+
+# Work and Academic 职场和学术类
+touch "scenes/11_求职和面试_Job_Hunting.md"
+touch "scenes/12_职场沟通和会议_Workplace_Communication.md"
+touch "scenes/13_电子邮件写作_Email_Writing.md"
+touch "scenes/14_团队合作和项目管理_Teamwork_Project_Management.md"
+touch "scenes/15_报告和演讲_Presentations_Reports.md"
+touch "scenes/16_职业发展和升职加薪_Career_Development.md"
+touch "scenes/17_大学课堂和学术讨论_University_Classes.md"
+touch "scenes/18_学术写作和论文_Academic_Writing.md"
+touch "scenes/19_实验室研究_Laboratory_Research.md"
+touch "scenes/20_考试和备考_Taking_Exams.md"
+
+# Social and Relationships 社交和人际关系
+touch "scenes/21_认识新朋友和社交寒暄_Meeting_New_People.md"
+touch "scenes/22_朋友聚会和社交活动_Social_Events.md"
+touch "scenes/23_文化差异和跨文化交流_Cultural_Differences.md"
+touch "scenes/24_恋爱和约会_Dating_Relationships.md"
+touch "scenes/25_家庭关系和家庭聚会_Family_Relationships.md"
+touch "scenes/26_道歉和解决冲突_Conflict_Resolution.md"
+touch "scenes/27_劝说和谈判_Negotiation.md"
+touch "scenes/28_投诉和表达不满_Making_Complaints.md"
+touch "scenes/29_表达感谢和赞美_Expressing_Gratitude.md"
+touch "scenes/30_社交媒体和在线交流_Social_Media.md"
+
+# Travel and Entertainment 旅游和娱乐
+touch "scenes/31_机场和海关_Airport_Customs.md"
+touch "scenes/32_酒店入住和退房_Hotel_CheckIn.md"
+touch "scenes/33_景点游览和导游_Sightseeing.md"
+touch "scenes/34_订票和交通工具_Booking_Transport.md"
+touch "scenes/35_紧急情况和求助_Emergencies.md"
+touch "scenes/36_看电影和剧院_Movies_Theatre.md"
+touch "scenes/37_运动和健身_Sports_Fitness.md"
+touch "scenes/38_音乐会和音乐文化_Concerts_Music.md"
+touch "scenes/39_户外探险和露营_Outdoor_Adventures.md"
+touch "scenes/40_摄影和记录生活_Photography.md"
+
+# Abstract Concepts 抽象和观点表达
+touch "scenes/41_科技发展和未来_Technology_Future.md"
+touch "scenes/42_环保和可持续发展_Environmental_Protection.md"
+touch "scenes/43_社会公平和正义_Social_Justice.md"
+touch "scenes/44_幸福和人生意义_Life_Meaning.md"
+touch "scenes/45_教育和个人成长_Education_Growth.md"
+touch "scenes/46_成功和失败_Success_Failure.md"
+touch "scenes/47_自由和责任_Freedom_Responsibility.md"
+touch "scenes/48_财富和消费观_Wealth_Consumerism.md"
+touch "scenes/49_艺术和创造力_Art_Creativity.md"
+touch "scenes/50_哲学和人生观_Philosophy_Life.md" 
